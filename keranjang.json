@@ -1,0 +1,32 @@
+{
+  "keranjang": [
+    {
+      "id": 6,
+      "nama": "82 Q800T QLED 8K Smart TV (2020)",
+      "gambar": "https://images.samsung.com/is/image/samsung/id-qled-tv-q800t-qa82q800takxxd-frontsilver-thumb-223783578?$160_160_PNG$",
+      "harga": 124999000,
+      "stok": 5,
+      "qty": 2
+    },
+    {
+      "id": 4,
+      "nama": "43 T6500 FHD Smart TV 2020",
+      "gambar": "https://images.samsung.com/is/image/samsung/id-fhd-t5500-ua43t6500akxxd-frontblack-thumb-229359103?$160_160_PNG$",
+      "harga": 4699000,
+      "stok": 4,
+      "qty": 2
+    },
+    {
+      "id": 8,
+      "nama": "55 QLED Q60T 4K Smart TV (2020)",
+      "gambar": "https://images.samsung.com/is/image/samsung/id-qled-tv-q60t-qa55q60takxxd-frontblack-thumb-223727948?$160_160_PNG$",
+      "harga": 12799000,
+      "stok": 5,
+      "qty": 1
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}

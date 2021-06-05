@@ -1,0 +1,78 @@
+{
+  "televisi": [
+    {
+      "id": 1,
+      "nama": "50 Crystal UHD 4K SmartTV TU6900",
+      "harga": 5699000,
+      "gambar": "https://images.samsung.com/is/image/samsung/id-uhd-tu6900-ua50tu6900kxxd-frontgray-thumb-276947406?$160_160_PNG$",
+      "stok": 4
+    },
+    {
+      "id": 2,
+      "nama": "32 T4003 HD TV (2020)",
+      "harga": 2599000,
+      "gambar": "https://images.samsung.com/is/image/samsung/id-hd-t400-ua32t4003akxxd-frontblack-thumb-289310861?$160_160_PNG$",
+      "stok": 6
+    },
+    {
+      "id": 3,
+      "nama": "75 Q95T QLED Smart 4K TV (2020)",
+      "harga": 52999000,
+      "gambar": "https://images.samsung.com/is/image/samsung/id-qledtv-q95t-qa75q95takxxd-frontsilver-thumb-234256690?$160_160_PNG$",
+      "stok": 3
+    },
+    {
+      "id": 4,
+      "nama": "43 T6500 FHD Smart TV 2020",
+      "harga": 4699000,
+      "gambar": "https://images.samsung.com/is/image/samsung/id-fhd-t5500-ua43t6500akxxd-frontblack-thumb-229359103?$160_160_PNG$",
+      "stok": 4
+    },
+    {
+      "id": 5,
+      "nama": "43 Crystal UHD 4K Smart TV TU8000",
+      "harga": 5599000,
+      "gambar": "https://images.samsung.com/is/image/samsung/id-uhd-tu8000-ua43tu8000kxxd-frontblack-thumb-223738044?$160_160_PNG$",
+      "stok": 2
+    },
+    {
+      "id": 6,
+      "nama": "82 Q800T QLED 8K Smart TV (2020)",
+      "harga": 124999000,
+      "gambar": "https://images.samsung.com/is/image/samsung/id-qled-tv-q800t-qa82q800takxxd-frontsilver-thumb-223783578?$160_160_PNG$",
+      "stok": 5
+    },
+    {
+      "id": 7,
+      "nama": "70 TU7000 Crystal UHD 4K Smart TV",
+      "harga": 17999000,
+      "gambar": "https://images.samsung.com/is/image/samsung/id-uhd-tu7000-ua70tu7000kxxd-front-thumb-255546177?$160_160_PNG$",
+      "stok": 5
+    },
+    {
+      "id": 8,
+      "nama": "55 QLED Q60T 4K Smart TV (2020)",
+      "harga": 12799000,
+      "gambar": "https://images.samsung.com/is/image/samsung/id-qled-tv-q60t-qa55q60takxxd-frontblack-thumb-223727948?$160_160_PNG$",
+      "stok": 5
+    },
+    {
+      "id": 9,
+      "nama": "43 Full HD Flat TV N5000 Series 5",
+      "harga": 4599000,
+      "gambar": "https://images.samsung.com/is/image/samsung/id-full-hd-n5000-ua43n5001akpxd-frontblack-thumb-145041783?$160_160_PNG$",
+      "stok": 5
+    },
+    {
+      "id": 10,
+      "nama": "55 TU8500 Crystal UHD 4K Smart TV",
+      "harga": 9699000,
+      "gambar": "https://images.samsung.com/is/image/samsung/id-uhd-tu8500-ua55tu8500kxxd-thumb-Black-221111151?$160_160_PNG$",
+      "stok": 5
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}

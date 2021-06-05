@@ -1,0 +1,157 @@
+.tgh {
+    width:1297px;
+    margin:0 auto;
+    margin-bottom:10px;
+    color: #212121;
+    padding: 20px 0px;
+}
+
+.tgh th {
+    background-color: #212121;
+    color: white;
+} 
+
+.televisi {
+    width: 412px;
+    padding: 20px;
+    /* border: 1px solid black; */
+    border-radius: 4px;
+    margin-bottom: 10px;
+    margin-right:10px;
+    margin-left:10px;
+    display: inline-block;
+    background-color: #ececec;
+}
+
+.gambar-televisi {
+    height: 200px;
+    width: 200px;
+    margin-right: 20px;
+    margin-left: 25%;
+    /* float:left; */
+    transition: transform .2s;
+}
+
+.gambar-televisi img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.televisi .konten-televisi .gambar-televisi:hover img {
+    transform: scale(1.25);
+}
+
+.konten-televisi {
+    float:left;
+    width:100%;
+}
+
+.konten-televisi div.judul-televisi {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.konten-televisi .isi-televisi {
+    font-size: 16px;
+    margin-right:20px;
+    width:100%;
+}
+
+#id-brg {
+    font-size: 13px;
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+
+.isi-televisi #nama-brg {
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.isi-televisi #harga-brg {
+    font-size: 20px;
+    font-weight: 700;
+}
+
+/* .btn {
+    color:white;
+    border:none;
+    background:#25d700;
+    width:90px;
+} */
+
+.About img {
+    width: 300px;
+    height: 450px;
+    margin-right: 200px;
+    margin-top: 75px;
+    /* object-fit: cover; */
+    /* border: 1px solid #212121; */
+    /* margin-left: 300px; */
+    /* margin-top: 100px; */
+}
+
+.About {
+    display: flex;
+    justify-content: space-between;
+}
+
+h1 {
+    color: #212121;
+    /* margin-left: 600px; */
+    /* padding-top: -50px; */
+}
+
+#bio {
+    margin-top: 125px;
+    margin-left: 200px;
+}
+
+#p-1 {
+    color: #212121;
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+
+#p-2 {
+    color: #212121;
+    font-size: 56px;
+    font-weight: 700;
+    margin-bottom: 30px;
+}
+
+#p-3 {
+    color: #212121;
+    font-size: 48px;
+    display: flex;
+    margin-bottom: 10px;
+}
+
+#p-3-2 {
+    margin-left: 10px;
+    color: blue;
+}
+
+#p-4 {
+    color: #212121;
+    margin-bottom: 40px;
+}
+
+#p-5 {
+    width: 500px;
+    /* color: #212121; */
+    text-align: justify;
+}
+
+#kotak {
+    width: 300px;
+    height: 450px;
+    background-color: #212121;
+    opacity: 0.2;
+    position: absolute;
+    z-index: -5;
+    margin-left: 965px;
+    margin-top: 100px;
+}
