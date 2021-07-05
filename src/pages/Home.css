@@ -1,0 +1,11 @@
+.list-md {
+  background: transparent;
+}
+
+.native-input.sc-ion-input-ios {
+  padding-left: 2vw;
+}
+
+.header-ios ion-toolbar:last-of-type {
+  --border-width: 0 0 0px;
+}
